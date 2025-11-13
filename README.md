@@ -14,10 +14,6 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Software – Quartus prime**
 
-**Theory**
-
-**Logic Diagram**
-
 **Procedure**
 
 1.	Type the program in Quartus software.
@@ -49,13 +45,10 @@ endmodule
 
 <img width="1461" height="850" alt="Screenshot 2025-11-12 113827" src="https://github.com/user-attachments/assets/574a86c5-d83b-4c9a-9fd4-569c7a6e677f" />
 
-**Output:**
-
-**RTL**
+**Output-Timing Diagram:**
 
 <img width="1905" height="364" alt="Screenshot 2025-11-12 114533" src="https://github.com/user-attachments/assets/4c5f1a30-7f5c-40c4-8242-f80c4cc6e51d" />
 
-**Timing Diagram**
 
 **Result:**
 
